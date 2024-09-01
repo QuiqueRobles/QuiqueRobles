@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Quique</h1>
 
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
+<img src="https://raw.githubusercontent.com/QuiqueRobles/QuiqueRobles/main/assets/header.jpg" align="center" alt="berkeli header image">
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Enrique Robles Uriel, Telecommunications Engineer based in Milano. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
+<h3 align="left">Hi 👋, I'm Enrique Robles Uriel, Telecommunications Engineer based in Milano.</h3>
 &emsp;
 
 -------------------
