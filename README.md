@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quique</h1>
 
-<img src="https://raw.githubusercontent.com/QuiqueRobles/QuiqueRobles/main/assets/header.jpg" align="center" alt="berkeli header image">
+<img src="https://raw.githubusercontent.com/QuiqueRobles/QuiqueRobles/main/header.jpg" align="center" alt="berkeli header image">
 
 -------------------
 &emsp;
